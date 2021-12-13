@@ -2,7 +2,7 @@
 
 #### We have built front end using python dash framework and hosted on Heroku cloud platform. Click on the below link to see the stock prices.
 
-Link: https://github.com/BhagyashreeU/Stock_prediction.git
+Link: https://stockforecastprediction.herokuapp.com/
 
 #### User Interface local execution:
 
