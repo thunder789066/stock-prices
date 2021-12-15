@@ -4,6 +4,8 @@
 
 Link: https://stockforecastprediction.herokuapp.com/
 
+Video: https://youtu.be/5mdYACXFapE
+
 #### User Interface local execution:
 
 We have used python web framework to implement User interface using fbprophet to forecast the stock prices.
